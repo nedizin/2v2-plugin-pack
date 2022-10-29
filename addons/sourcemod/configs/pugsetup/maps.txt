@@ -10,6 +10,3 @@ de_cache
 de_safehouse
 de_stmarc
 de_lake
-de_hive
-de_crete
-de_elysion
