@@ -32,7 +32,7 @@ You can change this on /addons/sourcemod/config/pugsetup and maps.txt
 # Plugins Restrictions Convars
 
 For now, 5v5 is not included, but will soon configure it.
-No guns are restriced.
+No guns are restricted.
 
 - Unmatched Restrictions / Exploit Fixes Convar (credits to imi-tat0r)
 
