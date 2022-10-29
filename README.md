@@ -35,10 +35,10 @@ For now, 5v5 is not included, but will soon configure it.
 No guns are restriced.
 
 - Unmatched Restrictions / Exploit Fixes Convar (credits to imi-tat0r)
-    um_restrict_untrusted_angles = 1 / If this cvar is enabled, untrusted angles will be normalized/clamped
-	um_restrict_body_lean = 1 / If this cvar is enabled, body lean will be disabled
-	um_restrict_extended_angles = 1 / If this cvar is enabled, extended angles will be disabled
-	um_restrict_fake_duck = 0 / If this cvar is enabled, fake duck will be disabled
+        um_restrict_untrusted_angles = 1 / If this cvar is enabled, untrusted angles will be normalized/clamped
+    	um_restrict_body_lean = 1 / If this cvar is enabled, body lean will be disabled
+    	um_restrict_extended_angles = 1 / If this cvar is enabled, extended angles will be disabled
+    	um_restrict_fake_duck = 0 / If this cvar is enabled, fake duck will be disabled
   
 
 
